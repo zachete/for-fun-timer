@@ -1,0 +1,11 @@
+{
+  "name": "for-fun-timer",
+  "description": "Just a timer for weekend fun",
+  "scripts": {
+    "start": "npx parcel ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "prettier": "^2.8.4"
+  }
+}
